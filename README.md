@@ -15,6 +15,16 @@
 - Responsive and animated using pure HTML, CSS, and JavaScript
 
 ---
+## Screenshots
+
+### Homepage  
+![Homepage](AstralWeb-main/assets/homepage.png)
+
+### Historical Events
+![Historical Events](AstralWeb-main/assets/HistoricEvents.png)
+
+### Astronomical News
+![Astronomical News](
 
 ## Technologies Used
 
