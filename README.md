@@ -66,6 +66,6 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Tushar-designs/AstralWeb.git
    cd astralweb
 
