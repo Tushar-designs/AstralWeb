@@ -24,7 +24,10 @@
 ![Historical Events](AstralWeb-main/assets/HistoricEvents.png)
 
 ### Astronomical News
-![Astronomical News](
+![Astronomical News](AstralWeb-main/assets/Screenshot%202025-07-05%20094300.png)
+
+### Globe
+![Globe](AstralWeb-main/assets/Globe.png)
 
 ## Technologies Used
 
